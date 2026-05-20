@@ -13,6 +13,7 @@ Tripathi, S., Sharma, N., Naorem, L. D., & Raghava, G. P. S. (2023).
 *Drug Discovery Today*, 28(4).
 [https://doi.org/10.1016/j.drudis.2023.103523](https://doi.org/10.1016/j.drudis.2023.103523)
 
+Thisdataset is  also available on Zenodo at https://doi.org/10.5281/zenodo.20052782
 
 ## About the Database
 
